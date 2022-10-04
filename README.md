@@ -26,7 +26,7 @@ __Github__
 <p align="center">
 <img  src="" alt="project ใหม่" style="width:500px;" >
 </p>
-<p align="center"><br> <b><p align="center"><br> <b> รูปที่ 1.1</b> การสร้างบัญชี Github </p>
+<p align="center"><br> <b> รูปที่ 1.1</b> การสร้างบัญชี Github </p>
 
 
 ### 1.2 ติดตั้งโปรแกรม Git
